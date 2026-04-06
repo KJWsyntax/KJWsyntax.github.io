@@ -8,7 +8,7 @@ Built in C# as part of my software engineering bootcamp to practise object-orien
 
 ## 📸 Preview
 
-![Creature Sim gameplay](screenshot.png)
+![Creature Sim gameplay](Screenshot.png)
 
 ---
 
